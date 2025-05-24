@@ -142,6 +142,11 @@ Si vous rencontrez des erreurs de permissions sur Windows, exécutez votre termi
 
 Cette application utilise l'[API Google Books](https://developers.google.com/books/docs/v1/using) pour la recherche de livres. Aucune clé API n'est requise pour les requêtes de base.
 
+## Galerie d'images
+
+![Search Page](screenshots/search_page.png)
+![Favorites Page](screenshots/favorites_page.png)
+
 ## Contribution
 
 Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une issue ou soumettre une pull request.
